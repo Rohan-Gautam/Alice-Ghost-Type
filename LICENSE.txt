@@ -1,0 +1,18 @@
+Private Use Only License
+
+Copyright (c) 2025 Rohan Gautam
+
+All rights reserved.
+
+This software and associated documentation files (the "Software") are provided solely for personal, non-commercial use on a single personal machine owned or controlled by the individual licensee. Permission is granted to the licensee to use the Software only on their personal machine for private, non-commercial purposes, subject to the following conditions:
+
+1. No Redistribution: The Software may not be copied, distributed, or shared with any other person or entity, in any form or by any means.
+2. No Modification: The Software may not be modified, adapted, or altered in any way.
+3. No Commercial Use: The Software may not be used for any commercial purposes, including but not limited to selling, licensing, or incorporating into commercial products or services.
+4. No Derivative Works: No derivative works based on the Software may be created.
+5. No Transfer: The Software may not be transferred, sublicensed, or assigned to any other person or entity.
+6. Single Machine Restriction: The Software may only be used on a single personal machine owned or controlled by the licensee. Use on multiple machines or by multiple users is prohibited.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Any use of the Software that violates the terms of this license is strictly prohibited and may result in legal action. All rights not expressly granted herein are reserved by the copyright holder.
